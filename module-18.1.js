@@ -15,6 +15,7 @@
 
 
 
+
 let status = 'Order Placed';
 
 for ( let i = 1; i<= 3 ; i++){
